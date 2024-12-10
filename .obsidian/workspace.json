@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b0ad87daa094116b",
+    "type": "split",
+    "children": [
+      {
+        "id": "408d9c25ce3b21db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30266b8b5620297f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/JS/Математические операции в JavaScript.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Математические операции в JavaScript"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b9cd870fac41412",
+    "type": "split",
+    "children": [
+      {
+        "id": "8943f5fcad93f560",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a472ec7b282ed50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74ccc6377dff6e87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c45c52da3bbb52e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7e744799e6e4bef",
+    "type": "split",
+    "children": [
+      {
+        "id": "d622a72d4b1a4b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fe156805e5e8de8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Frontend/JS/Математические операции в JavaScript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Математические операции в JavaScript"
+            }
+          },
+          {
+            "id": "bf2f3e71b5f4ebc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Frontend/JS/Математические операции в JavaScript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Математические операции в JavaScript"
+            }
+          },
+          {
+            "id": "82f8740016e7de05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9883d0462d74142",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Frontend/JS/Математические операции в JavaScript.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Математические операции в JavaScript"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "30266b8b5620297f",
+  "lastOpenFiles": [
+    "Frontend/Frontend.md",
+    "Frontend/JS/Математические операции в JavaScript.md",
+    "Frontend/JS/Переменные в JavaScript.md",
+    "Frontend/JS/Вывод информации на экран в JavaScript.md"
+  ]
+}
