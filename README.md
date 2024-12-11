@@ -1,4 +1,4 @@
-# Frontend Development Learning Roadmap  
+# Frontend Development Learning Roadmap (russian version)  
 
 Этот репозиторий создан для тех, кто хочет освоить профессию фронтенд-разработчика с нуля и шаг за шагом двигаться к профессиональному уровню.  
 
