@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Frontend/JS/Логические операторы в JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Логические операторы в JavaScript"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "4763d787f118702e",
   "lastOpenFiles": [
-    "План обучения/План изучения JavaScript.md",
     "README.md",
+    "План обучения/План изучения JavaScript.md",
     "План обучения/Roadmap.md",
     "Frontend/JS/Вывод информации на экран в JavaScript.md",
     "Frontend/JS/Навигация по темам в js.md",
