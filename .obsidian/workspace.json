@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/JS/Шаблонные строки (Template Literals) в JavaScript.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Шаблонные строки (Template Literals) в JavaScript"
+              "title": "README"
             }
           }
         ],
@@ -180,6 +180,7 @@
   },
   "active": "4763d787f118702e",
   "lastOpenFiles": [
+    "Frontend/JS/Шаблонные строки (Template Literals) в JavaScript.md",
     "Frontend/JS/Логические операторы в JavaScript.md",
     "Frontend/JS/Комментарии в JavaScript.md",
     "Frontend/JS/Итерационные объекты (Iterables) в JavaScript.md",
@@ -202,7 +203,6 @@
     "Frontend/JS/Переменные в JavaScript.md",
     "README.md",
     "Frontend/JS/Навигация по темам в js.md",
-    "Frontend/JS/Шаблонные строки (Template Literals) в JavaScript.md",
     "Frontend/JS/Математические операции в JavaScript.md",
     "JS.md",
     "План обучения",
