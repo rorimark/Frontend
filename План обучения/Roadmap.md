@@ -2,6 +2,10 @@
 
 ---
 
+# Roadmap
+
+___
+
 ### **Этап 1: Основы веб-разработки**
 
 #### 1. **HTML**
@@ -27,7 +31,7 @@
 - Ресурсы:
     - MDN Web Docs (CSS).
     - [CSS Tricks](https://css-tricks.com/).
-    - Курс: "Responsive Web Design" на freeCodeCamp.
+    - Курс: "Responsive Web Design" на [freeCodeCamp](https://www.freecodecamp.org/).
 
 #### 3. **Основы Git и GitHub**
 
@@ -43,7 +47,7 @@
 
 ### **Этап 2: Основы программирования (JavaScript)**
 
-#### 1. **JavaScript (JS)**
+#### 1. [**JavaScript (JS)**](obsidian://open?vault=Frontend&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20JavaScript)
 
 - Что изучить:
     - Основы синтаксиса (переменные, операторы, циклы, условия).
@@ -55,7 +59,7 @@
     - Асинхронность: `Promise`, `async/await`.
 - Ресурсы:
     - MDN Web Docs (JavaScript).
-    - Курс: "JavaScript Algorithms and Data Structures" на freeCodeCamp.
+    - Курс: "JavaScript Algorithms and Data Structures" на [freeCodeCamp](https://www.freecodecamp.org/).
 
 #### 2. **Обработка ошибок**
 
@@ -146,6 +150,11 @@
 - Участие в Open Source проектах.
 
 Планирование обучения — важный шаг, который поможет структурировать процесс и не терять мотивацию. Вот подробный план, как организовать учебу:
+
+___
+
+
+# Планирование обучения
 
 ---
 

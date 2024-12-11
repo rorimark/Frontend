@@ -44,7 +44,7 @@ ___
     - Сортировка (`sort`, `reverse`).
 - Деструктуризация массивов.
 
-#### 6. Объекты
+#### 6. [Объекты](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B2%20JavaScript)
 
 - Создание объектов.
 - Доступ к свойствам (`obj.key`, `obj['key']`).
@@ -52,7 +52,7 @@ ___
 - Перебор объектов (`for...in`, `Object.keys`, `Object.values`, `Object.entries`).
 - Деструктуризация объектов.
 
-#### 7. DOM (Document Object Model)
+#### 7. [DOM (Document Object Model)](obsidian://open?vault=Frontend&file=Frontend%2FJS%2FDocument%20Object%20Model%20(DOM)%20%D0%B2%20JavaScript)
 
 - Поиск элементов:
     - `document.querySelector`.
@@ -64,7 +64,7 @@ ___
     - `document.createElement`.
     - `appendChild`, `removeChild`.
 
-#### 8. События
+#### 8. [События](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F%20%D0%B2%20JavaScript)
 
 - Добавление обработчиков событий:
     - `addEventListener`.
