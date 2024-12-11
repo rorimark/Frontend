@@ -25,7 +25,7 @@ ___
     - `while` и `do...while`.
     - `for...of` и `for...in`.
 
-#### 4. [Функции]()
+#### 4. [Функции](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20%D0%B2%20JavaScript)
 
 - Объявление функций:
     - Функции с именем (`function name()`).
