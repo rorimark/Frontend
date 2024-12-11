@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/JS/Логические операторы в JavaScript.md",
+                "file": "План обучения/План изучения JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Логические операторы в JavaScript"
+              "title": "План изучения JavaScript"
             }
           }
         ],
@@ -180,15 +180,20 @@
   },
   "active": "4763d787f118702e",
   "lastOpenFiles": [
-    "README.md",
+    "Frontend/JS/Массивы в JavaScript.md",
     "План обучения/План изучения JavaScript.md",
-    "План обучения/Roadmap.md",
-    "Frontend/JS/Вывод информации на экран в JavaScript.md",
+    "README.md",
+    "Frontend/JS/Функции в JavaScript.md",
     "Frontend/JS/Навигация по темам в js.md",
-    "JS.md",
-    "Frontend/JS/Математические операции в JavaScript.md",
-    "Frontend/JS/Комментарии в JavaScript.md",
+    "Frontend/JS/Операторы сравнения в JavaScript.md",
+    "Frontend/JS/Циклы в JavaScript.md",
+    "Frontend/JS/Шаблонные строки (Template Literals) в JavaScript.md",
+    "Frontend/JS/Вывод информации на экран в JavaScript.md",
     "Frontend/JS/Логические операторы в JavaScript.md",
+    "Frontend/JS/Математические операции в JavaScript.md",
+    "План обучения/Roadmap.md",
+    "Frontend/JS/Комментарии в JavaScript.md",
+    "JS.md",
     "Frontend/JS/Переменные в JavaScript.md",
     "Frontend/JS/Типы данных в JavaScript.md",
     "Frontend/JS/Условные операторы в JavaScript.md",
