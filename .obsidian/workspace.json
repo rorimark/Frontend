@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "План обучения/План изучения React.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "План изучения React.js"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "План обучения/План изучения React.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for План изучения React.js"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "План обучения/План изучения React.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from План изучения React.js"
             }
           },
           {
@@ -139,14 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "План обучения/План изучения React.js.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of План изучения React.js"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,28 +164,28 @@
   },
   "active": "4763d787f118702e",
   "lastOpenFiles": [
-    "Обучающие материалы/JS/Итерационные объекты (Iterables) в JavaScript.md",
+    "Обучающие материалы/JS/Логические операторы в JavaScript.md",
+    "Обучающие материалы/JS/Вывод информации на экран в JavaScript.md",
+    "Обучающие материалы/JS/События в JavaScript.md",
+    "Обучающие материалы/JS/Условные операторы в JavaScript.md",
+    "Обучающие материалы/JS/Массивы в JavaScript.md",
+    "План обучения/Roadmap.md",
+    "Обучающие материалы/JS/Переменные в JavaScript.md",
     "README.md",
+    "Обучающие материалы/JS/Итерационные объекты (Iterables) в JavaScript.md",
     "План обучения/План изучения HTML и CSS.md",
     "План обучения/План изучения JavaScript.md",
     "Обучающие материалы/JS/Шаблонные строки (Template Literals) в JavaScript.md",
-    "Обучающие материалы/JS/Логические операторы в JavaScript.md",
     "Обучающие материалы/JS/Комментарии в JavaScript.md",
-    "Обучающие материалы/JS/Вывод информации на экран в JavaScript.md",
     "Обучающие материалы/JS/Document Object Model (DOM) в JavaScript.md",
-    "План обучения/Roadmap.md",
     "План обучения/План изучения Git и GitHub.md",
-    "Обучающие материалы/JS/События в JavaScript.md",
     "Обучающие материалы/JS/Операторы сравнения в JavaScript.md",
     "Обучающие материалы/JS/Объекты в JavaScript.md",
     "Обучающие материалы/JS/Циклы в JavaScript.md",
     "Обучающие материалы/JS/Функции в JavaScript.md",
-    "Обучающие материалы/JS/Массивы в JavaScript.md",
     "Обучающие материалы/JS/Типы данных в JavaScript.md",
-    "Обучающие материалы/JS/Условные операторы в JavaScript.md",
     "План обучения/План изучения React.js.md",
     "Навигация по темам в js.md",
-    "Обучающие материалы/JS/Переменные в JavaScript.md",
     "Frontend/JS/Навигация по темам в js.md",
     "Обучающие материалы/JS/Математические операции в JavaScript.md",
     "JS.md",
