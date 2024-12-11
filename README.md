@@ -37,7 +37,7 @@
    - Шаги для работы:  
      1. Скачайте репозиторий:  
         ```bash  
-        git clone https://github.com/ваш-пользователь/frontend-learning-roadmap.git  
+        git clone https://github.com/rorimark/Frontend-Development-Learning-Roadmap.git  
         ```  
      2. Откройте папку репозитория в приложении Obsidian.  
      3. Используйте встроенные функции для навигации, редактирования заметок и создания собственной структуры обучения.  
