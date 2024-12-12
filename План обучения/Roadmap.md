@@ -8,7 +8,7 @@ ___
 
 ### **Этап 1: Основы веб-разработки**
 
-#### 1. **HTML**
+#### 1. [**HTML**](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HTML%20%D0%B8%20CSS)
 
 - Что изучить:
     - Структура HTML-документа.
@@ -20,7 +20,7 @@ ___
     - MDN Web Docs (HTML).
     - Курс: "Основы HTML" на [freeCodeCamp](https://www.freecodecamp.org/).
 
-#### 2. **CSS**
+#### 2. [**CSS**](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HTML%20%D0%B8%20CSS)
 
 - Что изучить:
     - Основные селекторы (`class`, `id`, `descendant`, `pseudo-classes`).
@@ -33,7 +33,7 @@ ___
     - [CSS Tricks](https://css-tricks.com/).
     - Курс: "Responsive Web Design" на [freeCodeCamp](https://www.freecodecamp.org/).
 
-#### 3. **Основы Git и GitHub**
+#### 3. [**Основы Git и GitHub**](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20Git%20%D0%B8%20GitHub)
 
 - Что изучить:
     - Основные команды Git (`init`, `clone`, `add`, `commit`, `push`, `pull`, `branch`, `merge`).
@@ -45,9 +45,9 @@ ___
 
 ---
 
-### **Этап 2: Основы программирования (JavaScript)**
+### **Этап 2: Основы программирования ([JavaScript](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20JavaScript))**
 
-#### 1. [**JavaScript (JS)**](obsidian://open?vault=Frontend&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20JavaScript)
+#### 1. **JavaScript (JS)**
 
 - Что изучить:
     - Основы синтаксиса (переменные, операторы, циклы, условия).
@@ -251,6 +251,3 @@ ___
 1. **Планируйте отдых**: Избегайте выгорания. Работайте в формате Pomodoro (25 минут работы, 5 минут перерыв).
 2. **Не бойтесь ошибок**: Ошибки — часть обучения. Разбирайте их.
 3. **Ищите сообщество**: Общайтесь на форумах (Stack Overflow, Reddit r/webdev), присоединяйтесь к чатам для начинающих.
-
----
-
