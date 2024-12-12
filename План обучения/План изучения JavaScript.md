@@ -9,23 +9,23 @@ ___
 
 #### 2. Основы синтаксиса
 
-- [Переменные](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%20JavaScript): `var`, `let`, `const`.
-- [Типы данных](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20JavaScript): `number`, `string`, `boolean`, `undefined`, `null`, `object`, `symbol`, `bigint`.
+- [Переменные](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%20JavaScript): `var`, `let`, `const`.
+- [Типы данных](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A2%D0%B8%D0%BF%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B2%20JavaScript): `number`, `string`, `boolean`, `undefined`, `null`, `object`, `symbol`, `bigint`.
 - Операторы:
-    - [Арифметические](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20JavaScript) (`+`, `-`, `*`, `/`, `%`).
-    - [Сравнения](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20JavaScript) (`===`, `!==`, `<`, `>`, `<=`, `>=`).
-    - [Логические](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%9B%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B2%20JavaScript) (`&&`, `||`, `!`).
-- [Шаблонные строки (template literals)](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8%20(Template%20Literals)%20%D0%B2%20JavaScript): `` `Hello, ${name}!` ``.
+    - [Арифметические](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B2%20JavaScript) (`+`, `-`, `*`, `/`, `%`).
+    - [Сравнения](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20JavaScript) (`===`, `!==`, `<`, `>`, `<=`, `>=`).
+    - [Логические](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%9B%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B2%20JavaScript) (`&&`, `||`, `!`).
+- [Шаблонные строки (template literals)](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8%20(Template%20Literals)%20%D0%B2%20JavaScript): `` `Hello, ${name}!` ``.
 
 #### 3. Управляющие структуры
 
-- [Условные операторы](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B2%20JavaScript): `if`, `else if`, `else`, тернарный оператор.
-- [Циклы](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%A6%D0%B8%D0%BA%D0%BB%D1%8B%20%D0%B2%20JavaScript):
+- [Условные операторы](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%D0%B2%20JavaScript): `if`, `else if`, `else`, тернарный оператор.
+- [Циклы](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A6%D0%B8%D0%BA%D0%BB%D1%8B%20%D0%B2%20JavaScript):
     - `for`.
     - `while` и `do...while`.
     - `for...of` и `for...in`.
 
-#### 4. [Функции](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20%D0%B2%20JavaScript)
+#### 4. [Функции](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20%D0%B2%20JavaScript)
 
 - Объявление функций:
     - Функции с именем (`function name()`).
@@ -34,7 +34,7 @@ ___
 - Параметры и аргументы.
 - Возврат значений (`return`).
 
-#### 5. [Массивы](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%9C%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B%20%D0%B2%20JavaScript)
+#### 5. [Массивы](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%9C%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B%20%D0%B2%20JavaScript)
 
 - Создание массивов.
 - Основные методы:
@@ -44,7 +44,7 @@ ___
     - Сортировка (`sort`, `reverse`).
 - Деструктуризация массивов.
 
-#### 6. [Объекты](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B2%20JavaScript)
+#### 6. [Объекты](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B%20%D0%B2%20JavaScript)
 
 - Создание объектов.
 - Доступ к свойствам (`obj.key`, `obj['key']`).
@@ -52,7 +52,7 @@ ___
 - Перебор объектов (`for...in`, `Object.keys`, `Object.values`, `Object.entries`).
 - Деструктуризация объектов.
 
-#### 7. [DOM (Document Object Model)](obsidian://open?vault=Frontend&file=Frontend%2FJS%2FDocument%20Object%20Model%20(DOM)%20%D0%B2%20JavaScript)
+#### 7. [DOM (Document Object Model)](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2FDocument%20Object%20Model%20(DOM)%20%D0%B2%20JavaScript)
 
 - Поиск элементов:
     - `document.querySelector`.
@@ -64,7 +64,7 @@ ___
     - `document.createElement`.
     - `appendChild`, `removeChild`.
 
-#### 8. [События](obsidian://open?vault=Frontend&file=Frontend%2FJS%2F%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F%20%D0%B2%20JavaScript)
+#### 8. [События](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F%20%D0%B2%20JavaScript)
 
 - Добавление обработчиков событий:
     - `addEventListener`.
