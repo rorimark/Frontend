@@ -8,7 +8,7 @@ ___
 
 ### **Этап 1: Основы веб-разработки**
 
-#### 1. [**HTML**](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HTML)
+#### 1. [**HTML**](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HTML%20%D0%B8%20CSS)
 
 - Что изучить:
     - Структура HTML-документа.
@@ -20,7 +20,7 @@ ___
     - MDN Web Docs (HTML).
     - Курс: "Основы HTML" на [freeCodeCamp](https://www.freecodecamp.org/).
 
-#### 2. [**CSS**](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20CSS)
+#### 2. [**CSS**](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HTML%20%D0%B8%20CSS)
 
 - Что изучить:
     - Основные селекторы (`class`, `id`, `descendant`, `pseudo-classes`).
@@ -68,7 +68,7 @@ ___
 
 ---
 
-### **Этап 3: Углубление в [JavaScript](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20JavaScript) и первые фреймворки**
+### **Этап 3: Углубление в JavaScript и первые фреймворки**
 
 #### 1. **Работа с API**
 
@@ -83,7 +83,7 @@ ___
 
 #### 3. **Фреймворки**
 
-- [React.js](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%2F%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B8%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20React.js):
+- React.js:
     - Основные концепции: компоненты, состояния (state), свойства (props).
     - Хуки: `useState`, `useEffect`.
     - Управление маршрутизацией (React Router).
