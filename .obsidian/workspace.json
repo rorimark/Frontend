@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "План обучения/План изучения Git и GitHub.md",
+                "file": "Обучающие материалы/JS/Итерационные объекты (Iterables) в JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "План изучения Git и GitHub"
+              "title": "Итерационные объекты (Iterables) в JavaScript"
             }
           }
         ]
@@ -164,10 +164,11 @@
   },
   "active": "4763d787f118702e",
   "lastOpenFiles": [
+    "Обучающие материалы/JS/Циклы в JavaScript.md",
     "План обучения/План изучения JavaScript.md",
+    "План обучения/План изучения Git и GitHub.md",
     "План обучения/План изучения React.js.md",
     "План обучения/План изучения HTML и CSS.md",
-    "План обучения/План изучения Git и GitHub.md",
     "README.md",
     "Обучающие материалы/JS/Базовые концепции JavaScript.md",
     "Обучающие материалы/JS/События в JavaScript.md",
@@ -175,7 +176,6 @@
     "().md",
     "Обучающие материалы/JS/Условные операторы в JavaScript.md",
     "Обучающие материалы/JS/Функции в JavaScript.md",
-    "Обучающие материалы/JS/Циклы в JavaScript.md",
     "Обучающие материалы/JS/Шаблонные строки (Template Literals) в JavaScript.md",
     "Обучающие материалы/JS/Переменные в JavaScript.md",
     "Обучающие материалы/JS/Массивы в JavaScript.md",
