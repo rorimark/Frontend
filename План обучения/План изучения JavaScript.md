@@ -81,7 +81,7 @@ ___
 - Импорт и экспорт (`import`, `export`).
 - Работа с модулями через `<script type="module">`.
 
-#### 10. Работа с API
+#### 10. [Работа с API](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20API%20%D0%B2%20JavaScript)
 
 - Fetch API:
     - Отправка GET и POST запросов.
@@ -90,29 +90,29 @@ ___
     - Обещания (Promises): `then`, `catch`, `finally`.
     - `async/await`.
 
-#### 11. Локальное хранилище
+#### 11. [Локальное хранилище](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC%20%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5%D0%BC%20%D0%B2%20JavaScript)
 
 - `localStorage` и `sessionStorage`.
 - JSON: сериализация (`JSON.stringify`) и десериализация (`JSON.parse`).
 
-#### 12. Ошибки и отладка
+#### 12. [Ошибки и отладка](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D0%BC%D0%B8%20%D0%B8%20%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%B2%20JavaScript)
 
 - Блоки `try...catch`.
 - Пользовательские ошибки (`throw`).
 - Отладка в DevTools браузера.
 
-#### 13. Date и Time
+#### 13. [Date и Time](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B4%D0%B0%D1%82%D0%BE%D0%B9%20%D0%B8%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D0%BC%20%D0%B2%20JavaScript)
 
 - Объект `Date`.
 - Получение текущего времени.
 - Форматирование дат.
 
-#### 14. Регулярные выражения
+#### 14. [Регулярные выражения](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B5%20%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20(Regular%20Expressions%20%D0%B8%D0%BB%D0%B8%20RegEx)%20%D0%B2%20JavaScript)
 
 - Основы синтаксиса регулярных выражений.
 - Методы: `test`, `match`, `replace`.
 
-#### 15. Классы и ООП
+#### 15. [Классы и ООП](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D1%8B%20%D0%B8%20%D0%9E%D0%9E%D0%9F%20%D0%B2%20JavaScript)
 
 - Создание классов (`class`).
 - Конструкторы (`constructor`).
@@ -123,7 +123,7 @@ ___
 
 ### **Продвинутый уровень JavaScript**
 
-#### 16. Асинхронное программирование
+#### 16. [Асинхронное программирование](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%90%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20JavaScript)
 
 - Таймеры: `setTimeout`, `setInterval`.
 - Event Loop и стек вызовов.
