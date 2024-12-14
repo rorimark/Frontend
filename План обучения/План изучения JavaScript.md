@@ -76,7 +76,7 @@ ___
 
 ### **Средний уровень JavaScript**
 
-#### 9. Модули
+#### 9. [Модули](obsidian://open?vault=Frontend-Development-Learning-Roadmap&file=%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%89%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B%2FJS%2F%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D0%B8%20%D0%B2%20JavaScript)
 
 - Импорт и экспорт (`import`, `export`).
 - Работа с модулями через `<script type="module">`.
